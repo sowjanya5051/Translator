@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Translator</title>
+</head>
+<body>
+    <div class="container">
+        <div class="translator_property">
+            <ul class="nav_item">
+                <li>
+                    <select>
+                       <option value="en-GB">English</option>
+                       <option value="en-GB">Hindi</option>
+                       <option value="en-GB">Bengali</option>
+                    </select>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
